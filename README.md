@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Sacramento, US
 
-> Free BeamStation sample export with 50 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `545958` |
 | Location | Sacramento |
 | Category | Restaurants |
-| Full dataset size | 509 records |
-| Free sample size | 50 records (9.82%) |
-| Last export | 2026-04-07T19:02:24.353534+00:00 |
+| Full dataset size | 539 records |
+| Free sample size | 53 records (9.83%) |
+| Last export | 2026-04-15T00:12:52.323622+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-sacramento-us-sample-545958/releases/download/sample-latest/beamstation_545958_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample

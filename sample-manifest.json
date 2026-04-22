@@ -1,12 +1,12 @@
 {
-  "export_job_id": "faabde0b-2a75-432a-8731-5c1bca25e945",
+  "export_job_id": "d363c907-53df-4b65-b92b-25786dc5669f",
   "id_short": 545958,
-  "published_at": "2026-04-18T19:19:48Z",
+  "published_at": "2026-04-22T07:38:13Z",
   "repo_name": "top-30-active-restaurant-whales-in-sacramento-us-sample-545958",
   "sample_asset_name": "beamstation_545958_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/545958/beamstation_545958_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 53,
-  "sample_sha256": "4119d2183c4f717135cfb72d2e816eccd706ee7a7ee50b756220f988c1fcba61",
-  "sample_size_bytes": 229563,
-  "total_records": 539
+  "sample_records": 43,
+  "sample_sha256": "d0f68aa4a294b86e3e678d69958471600f812267eff9fba8d4fa83c6108e70b9",
+  "sample_size_bytes": 191523,
+  "total_records": 434
 }
